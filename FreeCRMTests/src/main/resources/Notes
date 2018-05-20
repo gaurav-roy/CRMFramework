@@ -1,0 +1,17 @@
+we will create  a runner class for executing all the test cases at the same time. 
+here runner package is src/main/resources and testng.xml is the runner class i.e., called as testng.xml template file.
+
+How to comment a line in testng.xml file ?
+--just select the line which you want to comment.
+--Right click on it and select "source"--then select "Add Block Comment".
+we can create more than one .xml file. In this we have created 2 .xml files for sanity and for regression.
+sanity means for some particular test cases to be executed.
+regression means the whole test cases to be executed.
+
+
+
+
+
+@CacheLookUp- Used to increase the performance of the script
+
+WebDriver Fire Event- to generate selenium action logs
