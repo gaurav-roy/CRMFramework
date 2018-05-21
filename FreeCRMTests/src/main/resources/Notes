@@ -15,3 +15,6 @@ regression means the whole test cases to be executed.
 @CacheLookUp- Used to increase the performance of the script
 
 WebDriver Fire Event- to generate selenium action logs
+
+Extent Report- Creating a extent report class for report generation. we have
+to create a extent listener and it is given by "relevent codes". No need to understand this code just use it for extent report.
