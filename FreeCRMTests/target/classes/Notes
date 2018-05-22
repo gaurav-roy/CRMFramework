@@ -18,3 +18,9 @@ WebDriver Fire Event- to generate selenium action logs
 
 Extent Report- Creating a extent report class for report generation. we have
 to create a extent listener and it is given by "relevent codes". No need to understand this code just use it for extent report.
+
+How to Integrate Jenkins with Selenium
+->Install and configure Jenkins
+->SetUp a Maven Project
+->Run Automation Test Suite from Jenkins. 
+Jenkins is free and Open source.
