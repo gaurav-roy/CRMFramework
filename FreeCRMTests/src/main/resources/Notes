@@ -24,3 +24,8 @@ How to Integrate Jenkins with Selenium
 ->SetUp a Maven Project
 ->Run Automation Test Suite from Jenkins. 
 Jenkins is free and Open source.
+To launch Jenkins follow steps-
+->on CMD- first go to that folder where jenkins is present. 
+->1. cd Documents/Jenkins/, Then
+->2. java -jar jenkins.war
+Then on any Browser type - localhost:8080 and then login.
